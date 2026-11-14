@@ -1,49 +1,36 @@
-# Hi, I'm Raptiledev 👋
+<div align="center">
 
-### Software Engineer | .NET Backend Developer | Full-Stack Developer
+# Saqib Khan
+### .NET Software Engineer · Backend Developer · Full-Stack Developer
 
-I enjoy building reliable backend services and useful full-stack applications. My work focuses on designing clean APIs, developing maintainable software, and connecting well-built backend systems to intuitive user experiences.
+**I build dependable software that solves real problems—from robust .NET APIs to polished, user-friendly web experiences.**
 
-> **Make this profile yours:** Replace the LinkedIn and portfolio placeholders below with your actual URLs, and adjust the skills to match the technologies you use.
+<a href="https://www.linkedin.com/in/saqib-khan-0a0158137/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"></a>
+<a href="https://github.com/Raptiledev"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"></a>
 
-## About Me
-
-- 👨‍💻 Interested in **.NET engineering**, **backend development**, and **full-stack applications**
-- 🧩 I enjoy solving problems across the stack—from data and APIs to the user interface
-- 🌱 Always learning and improving my software design and development practices
-- 🤝 Open to collaboration, interesting projects, and opportunities to grow
-
-## Areas of Focus
-
-- **Backend:** .NET, C#, REST API design, authentication, and service development
-- **Data:** Relational databases, data modeling, and persistence
-- **Frontend:** Building responsive interfaces and integrating them with backend APIs
-- **Engineering:** Clean code, maintainability, testing, and thoughtful system design
-
-## Tech Stack
-
-*Add or remove items so this list reflects your actual experience.*
-
-- **Languages:** C#, JavaScript / TypeScript, SQL
-- **Backend:** .NET, ASP.NET Core, Entity Framework Core
-- **Frontend:** React, HTML, CSS
-- **Databases:** SQL Server, PostgreSQL
-- **Tools:** Git, GitHub, Docker
-
-## Featured Projects
-
-Take a look through my repositories for projects and experiments. You can feature your strongest work here by adding a short description and a link for each project:
-
-- **[Project name](PROJECT_REPOSITORY_URL)** — Briefly describe what it does and the technologies you used.
-- **[Project name](PROJECT_REPOSITORY_URL)** — Briefly describe the problem it solves or what you learned.
-
-## Find Me Online
-
-- 💼 [LinkedIn](LINKEDIN_URL)
-- 🌐 [Portfolio](VERCEL_PORTFOLIO_URL)
-- 📧 [Email](mailto:YOUR_EMAIL_ADDRESS)
-- 🐙 [GitHub](https://github.com/Raptiledev)
+</div>
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and get in touch.
+## About Me
+
+I’m a software developer focused on **.NET engineering, backend development, and full-stack applications**. I enjoy turning ideas into maintainable software, designing clear APIs, and connecting reliable backend systems with intuitive interfaces.
+
+I’m looking for an opportunity where I can contribute, keep learning, and help a team ship great products. If you’re hiring for a .NET, backend, or full-stack role, **I’d love to connect and talk about how I can help.**
+
+## What I Work On
+
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core
+- **Frontend:** React, JavaScript / TypeScript, HTML, CSS
+- **Data:** SQL Server, PostgreSQL, data modeling
+- **Engineering:** Clean, maintainable code, testing, Git, and collaboration
+
+## Projects
+
+Explore my [repositories](https://github.com/Raptiledev?tab=repositories) to see what I’ve been building. I’m continuing to grow this section with selected projects and practical examples of my work.
+
+## Let’s Connect
+
+Interested in working together or discussing an opportunity? [Message me on LinkedIn](https://www.linkedin.com/in/saqib-khan-0a0158137/).
+
+<!-- Add a Portfolio button here when you have a live portfolio URL. -->
